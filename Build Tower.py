@@ -1,3 +1,4 @@
+#BUILD TOWER IN LSIT
 def tbuilt(nf):
     t=[]
     f=""
@@ -7,6 +8,7 @@ def tbuilt(nf):
         fl=sp+st+sp
         t.append(fl)
     return t
+#BUILD TOWER IN TRIANGLE
 def t2built(nf):
     f=1
     for i in range(nf):
